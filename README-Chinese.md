@@ -26,6 +26,4 @@
 
 45329453@qq.com
 
-#### [下载](https://itunes.apple.com/cn/app/id1479323067?at=1010lSqk&ct=cds)
-
--
+[下载](https://itunes.apple.com/cn/app/id1479323067?at=1010lSqk&ct=cds)

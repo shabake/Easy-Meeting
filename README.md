@@ -25,6 +25,5 @@ English | [简体中文](https://github.com/shabake/Easy-Meeting/blob/master/REA
 
 45329453@qq.com
 
-#### [download](https://itunes.apple.com/cn/app/id1479323067?at=1010lSqk&ct=cds)
+[download](https://itunes.apple.com/cn/app/id1479323067?at=1010lSqk&ct=cds)
 
--
