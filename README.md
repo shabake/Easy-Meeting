@@ -1,6 +1,6 @@
 # Easy-Meeting
 
-![未标题-2.png](https://upload-images.jianshu.io/upload_images/1419035-a1c93f7e36e90b60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![未标题-2.png](https://upload-images.jianshu.io/upload_images/1419035-a1c93f7e36e90b60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000)
 
 English | 简体中文
 
