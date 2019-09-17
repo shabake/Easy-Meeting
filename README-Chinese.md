@@ -2,7 +2,7 @@
 
 ![未标题-2.png](https://upload-images.jianshu.io/upload_images/1419035-a1c93f7e36e90b60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000)
 
-English | 简体中文
+[English](https://github.com/shabake/Easy-Meeting) | 简体中文
 
 轻松会议是一种应用程序，可帮助公司或公司智能地安排会议室，解决各部门之间的冲突，节省人力，时间和成本，并实现高效的办公室工作。
 
