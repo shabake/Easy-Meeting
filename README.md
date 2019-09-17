@@ -21,10 +21,10 @@ English | [简体中文](https://github.com/shabake/Easy-Meeting/blob/master/REA
 *  If you can't use it, you can easily contact customer service and need help
 
 
-#### [download](https://itunes.apple.com/cn/app/id1479323067?at=1010lSqk&ct=cds)
-
----
-
 #### Contact US
 
 45329453@qq.com
+
+#### [download](https://itunes.apple.com/cn/app/id1479323067?at=1010lSqk&ct=cds)
+
+-
