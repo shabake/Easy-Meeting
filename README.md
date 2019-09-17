@@ -4,21 +4,27 @@
 
 English | [简体中文](https://github.com/shabake/Easy-Meeting/blob/master/README-Chinese.md)
 
-Easy meeting is an application that helps companies or companies intelligently arrange meeting rooms, resolve conflicts across departments, save manpower, time and costs, and achieve efficient office work. 
+>Easy meeting is an application that helps companies or companies intelligently arrange meeting rooms, resolve conflicts across departments, save manpower, time and costs, and achieve efficient office work. 
 
 
 
-【Features】
+#### Features
 
- 1 Add a meeting schedule. If the meeting room is occupied, the meeting room will not appear in the meeting room list.  
+ * Add a meeting schedule. If the meeting room is occupied, the meeting room will not appear in the meeting room list.  
 
- 2 Join the conference room to participate in the conference. 
+ * Join the conference room to participate in the conference. 
 
- 3 Clearly understand the conference room overview through the homepage, including start, end time, conference summary, etc. 
+ *  Clearly understand the conference room overview through the homepage, including start, end time, conference summary, etc. 
  
- 4 Quickly view my meeting room collection, I have an organized meeting room
+ *  Quickly view my meeting room collection, I have an organized meeting room
 
- 5 If you can't use it, you can easily contact customer service and need help
+*  If you can't use it, you can easily contact customer service and need help
 
 
-[download](https://itunes.apple.com/cn/app/id1479323067?at=1010lSqk&ct=cds)
+####[download](https://itunes.apple.com/cn/app/id1479323067?at=1010lSqk&ct=cds)
+
+--
+
+#### Contact US
+
+45329453@qq.com
