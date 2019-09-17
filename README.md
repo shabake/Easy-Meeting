@@ -2,7 +2,7 @@
 
 ![未标题-2.png](https://upload-images.jianshu.io/upload_images/1419035-a1c93f7e36e90b60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000)
 
-English | 简体中文
+English | [简体中文](https://github.com/shabake/Easy-Meeting/blob/master/README-Chinese.md)
 
 Easy meeting is an application that helps companies or companies intelligently arrange meeting rooms, resolve conflicts across departments, save manpower, time and costs, and achieve efficient office work. 
 
