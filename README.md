@@ -19,6 +19,6 @@ Easy meeting is an application that helps companies or companies intelligently a
 
  3 Clearly understand the conference room overview through the homepage, including start, end time, conference summary, etc. 
  
- 4. Quickly view my meeting room collection, I have an organized meeting room
+ 4 Quickly view my meeting room collection, I have an organized meeting room
 
- 5. If you can't use it, you can easily contact customer service and need help
+ 5 If you can't use it, you can easily contact customer service and need help
