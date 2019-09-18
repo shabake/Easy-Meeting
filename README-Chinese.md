@@ -16,11 +16,11 @@
 
 2019.09.17 版本 0.01 
 
->1.Fix known bugs.
+>1.修复已经bug.
 >
->2.Fixed some adaptation issues.
+>2.修复适配问题.
 >
->3.APP name changed from Smart meeting room to Easy meeting,Because the name is too long, it is not displayed on the desktop.
+>3.修改app名称.
 
 2019.09.10 版本 0.01 
 
