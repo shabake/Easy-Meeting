@@ -4,7 +4,7 @@
 
 English | [简体中文](https://github.com/shabake/Easy-Meeting/blob/master/README-Chinese.md)
 
->Easy Meeting is a light office app that provides office scene solutions for companies or departments. It can arrange meeting rooms intelligently and orderly, solve time conflicts between departments, and save manpower and time costs to achieve efficient office work..
+>Easy Meeting is a light office app that provides office scene solutions for companies or departments. It can arrange meeting rooms intelligently and orderly, solve time conflicts between departments, and save manpower and time costs to achieve efficient office work.
 
 
 #### Test account
