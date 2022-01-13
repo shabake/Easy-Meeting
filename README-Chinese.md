@@ -6,6 +6,12 @@
 
 >Easy Meeting是一款轻办公app，为公司或部门提供办公室场景解决方案,它可以智能有序的预约会议室，解决部门之间的时间冲突，同时节省人力，时间成本，从而实现高效办公。
 
+小程序配套教程请[点击](https://www.notion.so/uniapp-45387fa1450940bfac055570bded1dde) 
+
+![gh_f3f7cb3cc692_258.jpg](https://upload-images.jianshu.io/upload_images/1419035-2b52f5bf4a993b77.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/310)
+
+
+
 #### 测试账户
 
 用户名 GHome
@@ -13,6 +19,10 @@
 密码 abc
 
 #### 更新日志
+
+2022.01.12 上线小程序
+
+![小程序.jpg](https://upload-images.jianshu.io/upload_images/1419035-da20ee85b2672b50.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/310)
 
 2019.09.17 版本 0.01 
 
